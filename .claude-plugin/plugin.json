@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "frx-user-guide",
+  "version": "1.1.0",
+  "description": "Forix house-style user guides (.docx, A4 landscape, annotated screenshots, Montserrat, real headings) that import into Google Docs; also restyles and updates existing guides.",
+  "author": {
+    "name": "hau-forix",
+    "email": "hau@forixdigital.com"
+  },
+  "keywords": [
+    "forix",
+    "user-guide",
+    "docx",
+    "documentation"
+  ]
+}

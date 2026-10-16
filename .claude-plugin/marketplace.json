@@ -1,0 +1,17 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "forix",
+  "description": "Forix internal Claude Code plugins.",
+  "owner": {
+    "name": "hau-forix",
+    "email": "hau@forixdigital.com"
+  },
+  "plugins": [
+    {
+      "name": "frx-user-guide",
+      "description": "Write or update a Forix user guide (.docx) with annotated screenshots.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
