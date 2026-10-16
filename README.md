@@ -15,7 +15,7 @@ Or just ask: "viết user guide cho VNPM Dashboard", "thêm trang Calendar vào 
 ## Install (teammates)
 
 ```bash
-claude plugin marketplace add hau-forix/frx-user-guide   # private repo: needs read access + `gh auth login`
+claude plugin marketplace add hau-forix/frx-user-guide
 claude plugin install frx-user-guide@forix
 ```
 
